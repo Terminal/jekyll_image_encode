@@ -1,5 +1,9 @@
 # Jekyll Image Encode
+## ~~already abandoned? jeez, it's like circ town here~~
+This project is no longer required for Discord_Fork, and as such, is no longer maintained. 
+_like it ever was to begin with_
 
+## Original README.md
 _[is a fork of another project](https://github.com/GSI/jekyll_image_encode)_
 
 This Jekyll plugin fetches images from the web and renders their corresponding base64 codes.
